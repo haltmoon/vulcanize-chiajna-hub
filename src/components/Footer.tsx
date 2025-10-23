@@ -21,22 +21,29 @@ const Footer = () => {
             <h3 className="font-bold text-lg mb-4">Contact Rapid</h3>
             <div className="space-y-3">
               <a
-                href="tel:0745123456"
+                href="tel:+40760612839"
                 className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
                 <Phone className="h-4 w-4" />
-                0745 123 456
+                +40 760 612 839
               </a>
               <a
-                href="mailto:contact@starwheels.ro"
+                href="tel:+40750203286"
+                className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
+              >
+                <Phone className="h-4 w-4" />
+                +40 750 203 286
+              </a>
+              <a
+                href="mailto:starwheelsa@gmail.com"
                 className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
                 <Mail className="h-4 w-4" />
-                contact@starwheels.ro
+                starwheelsa@gmail.com
               </a>
               <p className="flex items-center gap-2 text-primary-foreground/80">
                 <MapPin className="h-4 w-4" />
-                Str. Principală nr. 45, Chiajna
+                Strada 1 Decembrie 1918 175b, Chiajna
               </p>
             </div>
           </div>

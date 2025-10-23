@@ -53,7 +53,7 @@ const Navigation = () => {
             <Button
               size="sm"
               className="bg-secondary hover:bg-secondary/90"
-              onClick={() => window.open("tel:0745123456")}
+              onClick={() => window.open("tel:+40760612839")}
             >
               <Phone className="h-4 w-4 mr-2" />
               Sună Acum
@@ -100,7 +100,7 @@ const Navigation = () => {
             <Button
               size="sm"
               className="w-full bg-secondary hover:bg-secondary/90"
-              onClick={() => window.open("tel:0745123456")}
+              onClick={() => window.open("tel:+40760612839")}
             >
               <Phone className="h-4 w-4 mr-2" />
               Sună Acum

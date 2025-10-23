@@ -51,7 +51,7 @@ const ContactSection = () => {
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Adresă</h3>
                       <p className="text-muted-foreground">
-                        Str. Principală nr. 45<br />
+                        Strada 1 Decembrie 1918 175b<br />
                         Chiajna, Ilfov
                       </p>
                     </div>
@@ -63,12 +63,20 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Telefon</h3>
-                      <a
-                        href="tel:0745123456"
-                        className="text-muted-foreground hover:text-primary transition-colors"
-                      >
-                        0745 123 456
-                      </a>
+                      <div className="space-y-1">
+                        <a
+                          href="tel:+40760612839"
+                          className="block text-muted-foreground hover:text-primary transition-colors"
+                        >
+                          +40 760 612 839
+                        </a>
+                        <a
+                          href="tel:+40750203286"
+                          className="block text-muted-foreground hover:text-primary transition-colors"
+                        >
+                          +40 750 203 286
+                        </a>
+                      </div>
                     </div>
                   </div>
 
@@ -92,10 +100,10 @@ const ContactSection = () => {
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Email</h3>
                       <a
-                        href="mailto:contact@starwheels.ro"
+                        href="mailto:starwheelsa@gmail.com"
                         className="text-muted-foreground hover:text-primary transition-colors"
                       >
-                        contact@starwheels.ro
+                        starwheelsa@gmail.com
                       </a>
                     </div>
                   </div>

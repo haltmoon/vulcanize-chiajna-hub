@@ -31,7 +31,7 @@ const HeroSection = () => {
               <Button
                 size="lg"
                 className="bg-secondary hover:bg-secondary/90 text-lg"
-                onClick={() => window.open("tel:0745123456")}
+                onClick={() => window.open("tel:+40760612839")}
               >
                 <Phone className="h-5 w-5 mr-2" />
                 Sună Acum
@@ -53,7 +53,7 @@ const HeroSection = () => {
               </p>
               <p className="flex items-center gap-2">
                 <span className="font-semibold text-foreground">Adresă:</span>
-                Str. Principală nr. 45, Chiajna, Ilfov
+                Strada 1 Decembrie 1918 175b, Chiajna, Ilfov
               </p>
             </div>
           </div>
