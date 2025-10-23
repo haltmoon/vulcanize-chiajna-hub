@@ -66,7 +66,7 @@ const HeroSection = () => {
               />
             </div>
             <div className="absolute -bottom-6 -left-6 bg-primary text-primary-foreground p-6 rounded-xl shadow-hover">
-              <p className="text-3xl font-bold">15+</p>
+              <p className="text-3xl font-bold">5+</p>
               <p className="text-sm">Ani Experiență</p>
             </div>
           </div>
