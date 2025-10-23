@@ -51,8 +51,7 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">Program</h3>
             <div className="space-y-2 text-primary-foreground/80">
-              <p>Luni–Vineri: 09:00–18:00</p>
-              <p>Sâmbătă: 09:00–14:00</p>
+              <p>Luni–Sâmbătă: 09:30–20:00</p>
               <p>Duminică: Închis</p>
             </div>
           </div>

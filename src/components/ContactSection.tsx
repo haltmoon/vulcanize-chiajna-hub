@@ -87,7 +87,7 @@ const ContactSection = () => {
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Program</h3>
                       <p className="text-muted-foreground">
-                        Luni–Sâmbătă: 09:00–18:00<br />
+                        Luni–Sâmbătă: 09:30–20:00<br />
                         Duminică: Închis
                       </p>
                     </div>

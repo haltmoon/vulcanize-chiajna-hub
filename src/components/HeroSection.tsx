@@ -49,7 +49,7 @@ const HeroSection = () => {
             <div className="pt-6 space-y-2 text-muted-foreground">
               <p className="flex items-center gap-2">
                 <span className="font-semibold text-foreground">Program:</span>
-                Luni–Sâmbătă, 09:00–18:00
+                Luni–Sâmbătă, 09:30–20:00
               </p>
               <p className="flex items-center gap-2">
                 <span className="font-semibold text-foreground">Adresă:</span>
