@@ -25,7 +25,7 @@ const services = [
   {
     icon: Package,
     title: "Hotel Anvelope",
-    description: "Depozitare gratuită pentru anvelopele de sezon. Spațiu dedicat, condiții optime, echipat cu rafturi profesionale.",
+    description: "Depozitare pentru anvelopele de sezon. Spațiu dedicat, condiții optime, echipat cu rafturi profesionale.",
   },
 ];
 
