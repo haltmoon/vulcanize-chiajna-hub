@@ -115,7 +115,7 @@ const ContactSection = () => {
             <Card className="shadow-card">
               <CardContent className="p-0">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.8694847825344!2d25.9704!3d44.4933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDI5JzM2LjAiTiAyNcKwNTgnMTMuNCJF!5e0!3m2!1sen!2sro!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.087894276325!2d25.997277676700232!3d44.45186890041024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b20116f5c4d3b3%3A0x2a4661f8bae94826!2sVULCANIZARE%20AUTO%20STARWHEELS!5e0!3m2!1sro!2sro!4v1761658185884!5m2!1sro!2sro"
                   width="100%"
                   height="300"
                   style={{ border: 0 }}
